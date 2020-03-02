@@ -1,6 +1,6 @@
 # Site settings
 title: Another Blog
-url: "https://github.com/KwonJiYoon/KwonJiYoon.github.io.git"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "KwonJiYoon.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
