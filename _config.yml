@@ -15,7 +15,7 @@ profile: Java/JavaScript/JSP/HTML/CSS
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "yoon980112@naver.com"
+  Email: <yoon980112@naver.com>
   GitHub: "https://github.com/KwonJiYoon/KwonJiYoon.github.io.git"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
